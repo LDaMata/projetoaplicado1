@@ -1,5 +1,5 @@
 Primeiro projeto aplicado do curso de Ciência de Dados - Mackenzie.
 
-Nesse projeto iremos aprofundar nas dimensões e métricas de campanhas de marketing de uma empresa que vende seu produto digital na internet.
-Entenderemos quando uma campanha veiculada se torna mais ou menos efetiva, e extrair diante das análises, insights para a otimizações e segmentação das campanhas.
-Nosso objeto é melhorar o resultado das campanhas de marketing afim de otimizar o lucro da empresa.
+Nesse projeto iremos analisar um conjunto de dados que descreve as emissões de CO2 relacionadas ao setor agroalimentar, que representam aproximadamente 62% das emissões anuais globais.
+O objetivo principal é avaliar as principais fontes de emissões dentro desse setor e entender como elas evoluíram ao longo das últimas três décadas.
+Ao final do projeto, esperamos ter uma visão abrangente das tendências passadas e atuais das emissões no setor agroalimentar, permitindo insights informados para orientar ações futuras em direção a um sistema alimentar mais ambientalmente responsável e resiliente.
